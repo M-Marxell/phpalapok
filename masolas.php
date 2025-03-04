@@ -1,6 +1,6 @@
 <?php
 $tombbe =array("c", "i" , "g", "á", "n", "y");
-$tombki=array("","","","","","","");
+$tombki=array("","","","","","");
 
 $betu = "A";
 $indexmax = count($tombbe)-1;
